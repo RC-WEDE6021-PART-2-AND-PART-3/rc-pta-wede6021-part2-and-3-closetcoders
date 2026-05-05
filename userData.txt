@@ -1,0 +1,5 @@
+1	John Doe	j.doe@abc.co.za	29ef52e7563626a96cea7f4b4085c124
+2	Jane Smith	j.smith@gmail.com	29ef52e7563626a96cea7f4b4085c124
+3	Thabo Nkosi	t.nkosi@webmail.co.za	29ef52e7563626a96cea7f4b4085c124
+4	Lerato Dlamini	l.dlamini@yahoo.com	29ef52e7563626a96cea7f4b4085c124
+5	Amara Osei	a.osei@outlook.com	29ef52e7563626a96cea7f4b4085c124
